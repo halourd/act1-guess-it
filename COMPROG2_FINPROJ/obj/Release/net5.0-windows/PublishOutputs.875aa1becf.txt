@@ -1,0 +1,5 @@
+C:\Users\lorda\source\repos\COMPROG2_FINPROJ\COMPROG2_FINPROJ\bin\Release\net5.0-windows\publish\COMPROG2_FINPROJ_DRAWY.exe
+C:\Users\lorda\source\repos\COMPROG2_FINPROJ\COMPROG2_FINPROJ\bin\Release\net5.0-windows\publish\COMPROG2_FINPROJ_DRAWY.dll
+C:\Users\lorda\source\repos\COMPROG2_FINPROJ\COMPROG2_FINPROJ\bin\Release\net5.0-windows\publish\COMPROG2_FINPROJ_DRAWY.deps.json
+C:\Users\lorda\source\repos\COMPROG2_FINPROJ\COMPROG2_FINPROJ\bin\Release\net5.0-windows\publish\COMPROG2_FINPROJ_DRAWY.runtimeconfig.json
+C:\Users\lorda\source\repos\COMPROG2_FINPROJ\COMPROG2_FINPROJ\bin\Release\net5.0-windows\publish\COMPROG2_FINPROJ_DRAWY.pdb
