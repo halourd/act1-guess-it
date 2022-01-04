@@ -23,8 +23,8 @@ namespace COMPROG2_FINPROJ
 
             Application.Run(new LoadingBar());
             Application.Run(new GTW());
-            Application.Run(new ZGRET());
-            //Application.Run(new MainGameForm());
+            // Application.Run(new ZGRET());
+            Application.Run(new MainGameForm());
             
 
 
